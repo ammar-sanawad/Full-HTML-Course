@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    <!-- 👇 Strong And Emphasis Tag -->
+    <p> This is <strong>Strong</strong> And <em> Emphasis </em>Tag</p>
+    <hr>
+    
+    
+    
+    <!-- 👇 Underline And Strikethrough Tag -->
+    <p>This is <u>Underline</u> And <s> Strikethrough </s>Tag </p>
+    <hr> <hr>
+    
+    
+    
+    <!-- 👇 Subscript And Superscript Tag -->
+    <p>The Water 👉 H<sub>2</sub>O</p>
+    <p>Theory of Reletavity 👉 e = mc<sup>2</sup></p>
+    <hr> <hr>
+    
+    
+    <!-- 👇 Pre , kbd , abbr Tag -->
+    <pre>
+        Hi this is 
+        
+        Ammar Sanawad 
+        
+        I Live in indore 
+        
+        I study I  Class 8th
+    </pre>
+    <hr> <hr>
+    
+    
+    <p> This is My New Short Cut Key <br> <kbd>Ctrl</kbd> + <kbd>C</kbd> </p>
+    <hr><hr>
+    
+    
+    <p>
+    <abbr title="Chameli devi Public school">CDPS</abbr> is my school </p>
+    <hr><hr>
+    
+    
+    <!-- 👇 Mark , Small , Del Tag  -->
+    <p> This is <mark>highlighted</mark>
+     text</p> <hr>
+     <p> This is <small>smaller font size</small></p>
+     <hr>
+     
+     
+     <p> My favoriteColor is <del>purple</del> red </p>
+     <hr><hr>
+     
+     
+     <!--  👇 Inline Styling  -->
+     <h1>
+     <p style="color: red"> The End </p>
+     </h1>
+</body>
+</html>
