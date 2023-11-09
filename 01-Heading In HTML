@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Headings In HTML</title>
+</head>
+<body>
+    <h1>This is HTML Course</h1>
+    <h2>This is HTML Course</h2>
+    <h3>This is HTML Course</h3>
+    <h4>This is HTML Course</h4>
+    <h5>This is HTML Course</h5>
+    <h6>This is HTML Course</h6>
+</body>
+</html>
